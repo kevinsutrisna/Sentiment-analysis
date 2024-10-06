@@ -7,7 +7,7 @@ This project compares the performance of three machine learning algorithms—Ran
 ## Table of Contents
 - [Features](#features)
 - [Usage](#Usage)
-- [Presentasion](#Presentasion)
+- [Presentation](#Presentation)
 
 ---
 
@@ -21,4 +21,5 @@ This project compares the performance of three machine learning algorithms—Ran
 ## Usage
 - Open the code by clicking [here](https://colab.research.google.com/drive/1QJkOnwxJ7aEVKkcIk6wToW9WhTjbcbTu?usp=sharing).
 
-## Presentasion
+## Presentation
+[![Awesome Video](https://img.youtube.com/vi/zrGFljoIqg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=zrGFljoIqg0)
